@@ -9,6 +9,22 @@ body{
 }
 
 
+.navbar{
+  height: 65px;
+}
+
+.navbar-brand{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+.nav-link {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+
 
 .banner h1{
   color: #F90716;
