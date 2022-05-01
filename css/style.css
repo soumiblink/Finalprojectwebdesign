@@ -1503,7 +1503,12 @@ padding-top: 100px;
 .form-label{
   color: #ffffff;
 }
-
+.bg-grey {
+   background:-webkit-repeating-linear-gradient(45deg, #df2020 0%, #200e0e 10%);
+background:-o-repeating-linear-gradient(45deg, #df2020 0%, #200e0e 10%);
+background:-moz-repeating-linear-gradient(45deg, #df2020 0%, #200e0e 10%);
+background:repeating-linear-gradient(45deg, #df2020 0%, #200e0e 10%);     
+     }
 
      .logo-footer {
         margin-bottom: 40px;
